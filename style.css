@@ -20,3 +20,27 @@
   --accent-pink: #E5245E;
   --accent-purple: #591B98;
 }
+
+body {
+  font-family: var(--font);
+  background-color: var(--background-default);
+}
+
+#page {
+  width: 1120px;
+  margin: 88px auto 136px; 
+}
+
+.headline {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text-headline);
+}
+
+.title {
+  margin: 8px 0 40px;
+  font-size: 36px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
