@@ -62,3 +62,12 @@ figure figcaption {
   margin-block: 40px;
   background-color: var(--border-primary);
 }
+
+.divider + section {
+  padding-top: 20px;
+}
+
+.subtitle {
+  font-size: 32px;
+  color: var(--text-primary)
+}
