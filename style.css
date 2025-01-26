@@ -23,6 +23,7 @@
 
 body {
   font-family: var(--font);
+  color: var(--text-secondary);
   background-color: var(--background-default);
 }
 
@@ -53,7 +54,6 @@ figure figcaption {
   margin: 24px 0 44px;
   font-style: italic;
   text-align: center;
-  color: var(--text-secondary);
 }
 
 .divider {
@@ -68,6 +68,7 @@ figure figcaption {
 }
 
 .subtitle {
+  margin: 2px 0 8px;
   font-size: 32px;
   color: var(--text-primary)
 }
