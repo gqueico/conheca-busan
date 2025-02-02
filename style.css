@@ -73,7 +73,43 @@ figure figcaption {
   color: var(--text-primary)
 }
 
-.image {
-  margin: 64px 0 20px;
+.card-travel {
+  margin-top: 48px;
+}
+
+.card-travel img {
+  margin-bottom: 20px;
   border-radius: 28px;
+}
+
+.card-travel h3 {
+  margin-bottom: 4px;
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.card-travel span,
+.card-travel li {
+  font-weight: 700;
+}
+
+.card-travel li {
+  margin-left: 22px;
+}
+
+.history {
+  color: var(--accent-blue);
+}
+
+.couples {
+  color: var(--accent-purple);
+}
+
+.families {
+  color: var(--accent-pink);
+}
+
+.budget {
+  color: var(--accent-orange);
 }
