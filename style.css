@@ -117,3 +117,12 @@ figure figcaption {
 main > .paragraph {
   text-align: center;
 }
+
+footer {
+  margin-top: 65px;
+  font-family: "Alice", serif;
+  font-size: 16px;
+  line-height: 150%;
+  color: var(--text-secondary);
+  text-align: center;
+}
