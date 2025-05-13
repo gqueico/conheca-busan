@@ -95,7 +95,12 @@ figure figcaption {
 }
 
 .card-travel li {
-  margin-left: 22px;
+  margin-left: 20px;
+}
+
+.card-travel li::marker {
+  font-size: 12px;
+  color: var(--text-secondary);
 }
 
 .history {
