@@ -62,19 +62,19 @@ Tecnologias utilizadas durante o desenvolvimento do projeto:
 
 ## 🌎 Acesse o site
 
-Para visualizar o projeto [clique aqui]( https://gqueico.github.io/local_turistico/)
+Para visualizar o projeto [clique aqui]( https://gqueico.github.io/conheca-busan/)
 
 ## 🚀 Como Visualizar Localmente
 
   Primeiro faça o clone do repositório:
 
   ```bash
-  git clone https://github.com/gqueico/local_turistico.git
+  git clone https://github.com/gqueico/conheca-busan.git
   ```
   Acesse a pasta do projeto:
   
   ```bash
-  cd local_turistico
+  cd conheca-busan
   ```
 
   Pronto! Agora abra o arquivo `index.html` no seu navegador
