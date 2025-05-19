@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src=".github/preview.png" width="90%">
+  <img src=".github/preview.png" width="100%">
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Busan é a segunda maior cidade da Coreia do Sul, conhecida por suas belas praia
 
 - Layout moderno e responsivo
 
-## 🛠️ Tecnologias Utilizadas
+## 🪛 Tecnologias Utilizadas
 
 Tecnologias utilizadas durante o desenvolvimento do projeto:
 
@@ -62,7 +62,7 @@ Tecnologias utilizadas durante o desenvolvimento do projeto:
 
 ## 🌎 Acesse o site
 
-Para visualizar o projeto [clique aqui](https://gqueico.github.io/local_turistico/)
+Para visualizar o projeto [clique aqui]( https://gqueico.github.io/local_turistico/)
 
 ## 🚀 Como Visualizar Localmente
 
